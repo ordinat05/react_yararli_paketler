@@ -1,5 +1,5 @@
-### Videodan izleyebilirsiniz.
-![Watch the video] <video src="https://user-images.githubusercontent.com/74843274/207064103-15c0c269-dfea-47fe-bf9e-5c982935ee60.mp4
+### Videodan izleyebilirsiniz. Watch the video.
+[Watch the video] <video src="https://user-images.githubusercontent.com/74843274/207064103-15c0c269-dfea-47fe-bf9e-5c982935ee60.mp4
   "></video>
 
 ### Ekran görüntüleri 1 --> npm paketi yüklenmesi ve Generic Counter oluşturulması.
