@@ -1,12 +1,24 @@
 
 ### Ekran görüntüleri 1 --> npm paketi yüklenmesi ve Generic Counter oluşturulması.
-![alt resim1](https://raw.githubusercontent.com/ordinat05/yararli_paketler/master/src/appScreenShots/new.PNG)
+![alt resim](https://raw.githubusercontent.com/ordinat05/react_yararli_paketler/master/src/appScreenShots/new.PNG)
 
 ### Ekran görüntüleri 2
-![alt resim2](https://raw.githubusercontent.com/ordinat05/yararli_paketler/master/src/appScreenShots/start.PNG)
+![alt resim](https://raw.githubusercontent.com/ordinat05/react_yararli_paketler/master/src/appScreenShots/start.PNG)
 
-### TrickNotes 1
-![alt resim3](https://raw.githubusercontent.com/ordinat05/yararli_paketler/master/src/appScreenShots/tricks.PNG)
+### Ekran görüntüleri 3
+![alt resim](https://raw.githubusercontent.com/ordinat05/react_yararli_paketler/master/src/appScreenShots/tricks.PNG)
+
+### Ekran görüntüleri 4
+![alt resim](https://raw.githubusercontent.com/ordinat05/react_yararli_paketler/master/src/appScreenShots2/IconPaketiniT%C3%BCmComponentteTekStilde.PNG)
+
+### Ekran görüntüleri 5
+![alt resim](https://raw.githubusercontent.com/ordinat05/react_yararli_paketler/master/src/appScreenShots2/IconPaketleri1.PNG)
+
+### Ekran görüntüleri 6
+![alt resim](https://raw.githubusercontent.com/ordinat05/react_yararli_paketler/master/src/appScreenShots2/IconPaketleri2.PNG)
+
+### Ekran görüntüleri 7
+![alt resim](https://raw.githubusercontent.com/ordinat05/react_yararli_paketler/master/src/appScreenShots3/toastMesajlari1.png)
 
 
 
